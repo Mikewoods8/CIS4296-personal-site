@@ -1,10 +1,9 @@
 :root {
-    --temple-red-dark: rgb(136, 24, 45);
-    --bs-primary: #88182d;
-    --bs-primary-rgb: 158, 27, 52;
-    --bs-primary-dark: #721426;
-    --bs-primary-dark-rgb: 136, 24, 35;
-
+    --temple-blue-dark: rgb(24, 53, 136); 
+    --bs-primary: #185388; 
+    --bs-primary-rgb: 24, 53, 136;
+    --bs-primary-dark: #142672; 
+    --bs-primary-dark-rgb: 20, 38, 114;
 }
 
 .btn-primary {
